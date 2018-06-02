@@ -69,7 +69,7 @@ c_media_v4l2 = "https://github.com/LineageOS/android_hardware_qcom_media-v4l2.gi
 b = "lineage-15.1"
 bc = "lineage-15.1-caf-8996"
 
-ask = raw_input("clone HALs? y/n ")
+ask = input("clone HALs? y/n ")
 
 if ask == "y":
     if os.path.isdir(audio):
