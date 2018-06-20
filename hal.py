@@ -50,7 +50,6 @@ keymaster = "hardware/qcom/keymaster"
 display_caf = "hardware/qcom/display-caf/msm8996"
 media_caf = "hardware/qcom/media-caf/msm8996"
 audio_caf = "hardware/qcom/audio-caf/msm8996"
-sensors = "hardware/qcom/sensors"
 
 c_audio = "https://github.com/LineageOS/android_hardware_qcom_audio.git"
 c_display = "https://github.com/LineageOS/android_hardware_qcom_display.git"
